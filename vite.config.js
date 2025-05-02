@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   assetsInclude: ['**/*.jpg'],
   plugins: [react()],
-  base: '/B-DEV/',
+  base: '/',
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
