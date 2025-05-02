@@ -5,12 +5,12 @@ import { useInView } from 'react-intersection-observer';
 
 const projects = [
   {
-    title: 'Super Scientific Calculator',
-    description: 'A calculator that can solve complex mathematical problems.',
-    image: 'https://via.placeholder.com/500',
-    techStack: ['React', 'Tailwind CSS', 'Math.js'],
-    liveUrl: 'https://example.com',
-    githubUrl: 'https://github.com',
+    title: 'XO Game',
+    description: 'A simple tic-tac-toe game built with pure HTML, CSS, and JavaScript.',
+    image: 'https://i.imgur.com/5vsBRl2.png',
+    techStack: ['HTML', 'CSS', 'JavaScript'],
+    liveUrl: 'https://cautious-pelican.static.domains/',
+    githubUrl: 'https://github.com/berkaouibilal',
   },
 ];
 
