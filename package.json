@@ -7,7 +7,7 @@
   "scripts": {
   "dev": "remix dev",
   "build": "remix build",
-  "start": "remix-serve build",
+  "start": "remix-serve build"
               },
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
