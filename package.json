@@ -5,8 +5,9 @@
   "homepage": "https://bilaldeadbeef.github.io/B-DEV/",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "remix vite:build",
+    "build": "remix build",
+    "dev": "remix dev",
+    "start": "remix-serve build",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
