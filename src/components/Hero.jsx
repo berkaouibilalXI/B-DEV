@@ -61,7 +61,7 @@ const Hero = () => {
                 2000,
                 'Student',
                 2000,
-                'FullStack Developer',
+                'Near-FullStack Developer',
                 2000,
                 'React Specialist',
                 2000,

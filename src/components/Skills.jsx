@@ -15,11 +15,13 @@ const skills = {
     { name: 'Express.js', level: 85 },
     { name: 'MongoDB', level: 90 },
     { name: 'SQL', level: 90 },
+    { name: 'php', level: 55 },
   ],
   tools: [
     { name: 'Git', level: 90 },
     { name: 'AWS', level: 72 },
     { name: 'Figma', level: 60 },
+    { name: 'PhpmyAdmin', level: 80},
   ],
 };
 

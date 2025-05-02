@@ -7,10 +7,18 @@ const projects = [
   {
     title: 'XO Game',
     description: 'A simple tic-tac-toe game built with pure HTML, CSS, and JavaScript.',
-    image: 'https://i.imgur.com/5vsBRl2.png',
+    image: 'https://i.postimg.cc/TwT1w8KC/Screenshot-2025-05-02-at-12-26-19-X-O-Game.png',
     techStack: ['HTML', 'CSS', 'JavaScript'],
     liveUrl: 'https://cautious-pelican.static.domains/',
     githubUrl: 'https://github.com/berkaouibilal',
+  },
+  {
+    title: 'Pepsi Rebranded Website',
+    description: 'A rebranded website for Pepsi, showcasing modern design and responsiveness.',
+    image: 'https://i.postimg.cc/rwpvqfyx/Screenshot-2025-05-02-at-12-43-20-PEPSI-REBRANDED.png',
+    techStack: ['React', 'Tailwind CSS', 'JavaScript', 'Framer Motion', 'React Router', 'React Icons'],
+    liveUrl: 'https://pepsi-rebranded.vercel.app/',
+    githubUrl: 'https://github.com/berkaouibilal/pepsi-rebranded',
   },
 ];
 
